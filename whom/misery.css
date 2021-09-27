@@ -1,0 +1,128 @@
+
+
+body {
+    background-color: grey;
+}
+
+.main-img {
+    max-width: 38%;
+    width: 400000px;
+    max-height: 100%;
+    display: inline;
+    float: left;
+    cursor: pointer;
+}
+
+.main-img:hover {
+    box-shadow: 0 0 3px 3px rgb(5, 107, 22);
+}
+
+.upgrade-img {
+    max-width: 8%;
+    max-height: 8%;
+    display: inline;
+    float: left;
+    cursor: pointer;
+    padding-bottom: 1%;
+    padding-top: 1%;
+    margin-right: 1%;
+}
+
+.upgrade-img2 {
+    max-width: 8%;
+    max-height: 8%;
+    display: inline;
+    float: left;
+    cursor: pointer;
+    padding-bottom: 1%;
+    margin-right: 1%;
+    padding-top: 1%;
+}
+
+.upgrade-img3 {
+    max-width: 8%;
+    max-height: 8%;
+    display: inline;
+    float: left;
+    cursor: pointer;
+    padding-bottom: 1%;
+    padding-top: 1%;
+    margin-right: 1%;
+
+}
+
+.upgrade-img4 {
+    max-width: 8%;
+    max-height: 8%;
+    display: inline;
+    float: left;
+    cursor: pointer;
+    padding-bottom: 1%;
+    padding-top: 1%;
+    margin-right: 1%;
+
+}
+
+.upgrade-img5 {
+    max-width: 8%;
+    max-height: 8%;
+    display: inline;
+    float: left;
+    cursor: pointer;
+    padding-bottom: 1%;
+    padding-top: 1%;
+    margin-right: 1%;
+}
+
+.upgrade-img6 {
+    max-width: 8%;
+    max-height: 8%;
+    display: inline;
+    float: left;
+    cursor: pointer;
+    padding-bottom: 1%;
+    padding-top: 3%;
+    margin-right: 1%;
+}
+
+.upgrade-img7 {
+    max-width: 8%;
+    max-height: 8%;
+    display: inline;
+    float: left;
+    cursor: pointer;
+    padding-bottom: 1%;
+    margin-right: 1%;
+    padding-top: 3%;
+}
+
+.upgrade {
+    width: 59%;
+    display: inline;
+    float: right;
+    cursor: pointer;
+    background-color: whitesmoke;
+}
+
+.cost{
+    margin-top:5px;
+    font-size: 15px;
+}
+
+#meloncount {
+    font-size: 30px;
+    width: 59%;
+    float: right;
+    display: inline;
+    margin-bottom: 10px;
+}
+
+.bigtext {
+    font-size: 24px;
+}
+
+.smalltext {
+    font-size: 20px;
+    color: gray;
+    display: inline;
+}
