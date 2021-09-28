@@ -204,6 +204,7 @@ function boughtmelon() {
 }
 
 function boughtstar() {
+    noMelons = noMelons - startreatcost;
     document.getElementById("startreat").disabled = true;
     startreatowned = true;
     document.getElementById("devourerdesc").innerHTML = " He will reduce your melons per second to zero as payment, but his blessing will add "+(20+cattreatsowned)+"% of it to your melons per click.";
@@ -215,6 +216,7 @@ function boughtstar() {
 }
 
 function boughtodachi(){
+    noMelons = noMelons - odachicost;
     document.getElementById("odachi").disabled = true;
     sekirov = 200;
     fninjav = 20;
