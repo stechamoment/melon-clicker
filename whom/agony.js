@@ -24,8 +24,6 @@ let dservices = false;
 let startreatowned = false;
 let timer = setInterval(meloncountfunction, 10);
 let timer2 = setInterval(meloncountfunction2, 20);
-cattreat.onclick = boughtcattreat;
-fortniteninja.onclick = boughtfninja;
 function whatever() {
     let doneTheStuff = false;
     if (!doneTheStuff) {
